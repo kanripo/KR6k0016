@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 十誦律
+#+DATE: 2015-08-30 20:40:28.576884
+#+PROPERTY: JUAN 0
